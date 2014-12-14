@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <Drive Name="y:\" Green="10" Yellow="20" Red="30" />
+  <Drive Name="o:\" Green="10" Yellow="20" Red="30" />
+</Config>
